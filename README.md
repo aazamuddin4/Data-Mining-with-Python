@@ -5,7 +5,7 @@ Including various project using Jupyter Notebook
  
 1. Download and install Jupyter notebook, and get familiar with the software. Create a new notebook and call it "Homework #1".
 
-2. Review the data sources mentioned in the "Sample Datasets" video. Browse through any datasets that interest you, until you find a dataset that includes a "date" column. Download that dataset and save it in the same directory as your new notebook.
+2. Review the data sources mentioned in the "Sample Datasets" video. Browse through any datasets that interest you, until you find a dataset that includes a "date" column. Download that dataset and save it in the same directory as your new notebook. (DOWNLOADED DATA SETS FROM KAGGLE)
 
 3. Import the data into your notebook.
 
