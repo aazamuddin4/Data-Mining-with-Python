@@ -1,6 +1,6 @@
-### Data-Mining-with-Python
+# Data-Mining-with-Python
 Including various project using Jupyter Notebook
-## Homework Assignment #1: Setup Your Workstation
+# Homework Assignment #1: Setup Your Workstation
 # Details:
  
 1. Download and install Jupyter notebook, and get familiar with the software. Create a new notebook and call it "Homework #1".
@@ -17,7 +17,7 @@ Including various project using Jupyter Notebook
 
 7. Add a comment to the code you wrote in step #6, explaining what that code is doing.
 
-## Homework Assignment #2: Correlation
+# Homework Assignment #2: Correlation
 
 # Details:
  
