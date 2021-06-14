@@ -26,3 +26,7 @@ Including various project using Jupyter Notebook
 2. Following the examples in the previous lectures, create a graphic plot of the statistical correlation between those two columns. You can use any charting/graphing technique you wish, as long as your graph makes the correlation between those columns is easy to understand.
 
 3. Add a comment to the code you wrote in step #2, explaining what that code is doing.
+
+# Homework Assignment #3: Apache Spark
+
+# Should undo all pyspark installation (improper way of installation)
