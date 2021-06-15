@@ -31,7 +31,7 @@ Including various project using Jupyter Notebook
 
 Should undo all pyspark installation (improper way of installation)
 
-# Homework Assignment #5: Matrices
+# Homework Assignment #4: Matrices
 # Details:
 
 Why is matrix multiplication useful? How would you use that in practice?
