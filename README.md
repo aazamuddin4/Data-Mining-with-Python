@@ -42,4 +42,16 @@ For this assignment, pick one of the matrix methods and apply it your any of you
 
 Stumped? Do a bit of independent research on the topic. There are many real-world applications of these processes, but there not necessarily intuitive. If the datasets you've chosen so far don't lend themselves well to matrix manipulation, pick any new dataset that does./
 
-Once you've completed your writeup, follow the instructions below to hand it in.
+# Homework Assignment #5: SQL Databases
+
+# Details:
+ 
+1. Download SQLite or pick any other database to use for this exercise. (I prefer using SQL server)
+
+2. Go to Kaggle and choose a historical-weather dataset (for any region) that includes temperature data, and load it into your database .
+
+3. Within the SQL editor for your database, select all the days where the temp was less than 1 Fahrenheit than the previous day.
+
+4. Export the results into a new CSV.
+
+5. Import the new CSV into your notebook and display a portion of the rows as a data frame.
