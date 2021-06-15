@@ -29,6 +29,8 @@ Including various project using Jupyter Notebook
 
 # Homework Assignment #3: Apache Spark
 
+# Details:
+
 Should undo all pyspark installation (improper way of installation)
 
 # Homework Assignment #4: Matrices
