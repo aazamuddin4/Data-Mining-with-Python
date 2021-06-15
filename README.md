@@ -30,3 +30,14 @@ Including various project using Jupyter Notebook
 # Homework Assignment #3: Apache Spark
 
 Should undo all pyspark installation (improper way of installation)
+
+# Homework Assignment #5: Matrices
+# Details:
+
+Why is matrix multiplication useful? How would you use that in practice?
+
+For this assignment, pick one of the matrix methods and apply it your any of your earlier datasets in a practical / meaningful way. Above your formulas, write an explanation (1 paragraph long) explaining how the method is useful and what kind of analysis it enables in real-life.
+
+Stumped? Do a bit of independent research on the topic. There are many real-world applications of these processes, but there not necessarily intuitive. If the datasets you've chosen so far don't lend themselves well to matrix manipulation, pick any new dataset that does./
+
+Once you've completed your writeup, follow the instructions below to hand it in.
