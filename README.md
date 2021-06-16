@@ -55,3 +55,22 @@ Stumped? Do a bit of independent research on the topic. There are many real-worl
 4. Export the results into a new CSV.
 
 5. Import the new CSV into your notebook and display a portion of the rows as a data frame.
+
+# Project #1: Thinking About Fake News
+
+# Details:
+ 
+The work you do in this project will carry forward to your final exam (project #3).
+
+1. Go to Kaggle (or any other dataset source) and find a few (2-3) datasets that provide news headlines/articles that have been labeled as "fake news" and "real news".
+
+2. Open up each dataset in your notebook and explore the datasets manually. Browse the rows and columns and get a firm understanding of the data.
+
+3. Below each dataset, write your thoughts (a paragraph) for how a machine learning algorithm could use this training data to prepare itself to analyze news headlines. Specifically, elaborate:
+
+          A. What methods you could use to review the given data and learn keywords or phrases to watch out for.
+
+          and B. How you could apply those learnings to spotting fake news headlines in the future.
+
+
+4. Perform research to identify 3-5 sources for APIs you could use to stream in news headlines in the future. 
