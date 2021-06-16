@@ -70,7 +70,7 @@ The work you do in this project will carry forward to your final exam (project #
 
           A. What methods you could use to review the given data and learn keywords or phrases to watch out for.
 
-          and B. How you could apply those learnings to spotting fake news headlines in the future.
+          B. How you could apply those learnings to spotting fake news headlines in the future.
 
 
 4. Perform research to identify 3-5 sources for APIs you could use to stream in news headlines in the future. 
